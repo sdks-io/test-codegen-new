@@ -1,0 +1,30 @@
+
+# Order Input Type 1 Enum
+
+Gets or sets OrderInputType.
+
+## Enumeration
+
+`OrderInputType1Enum`
+
+## Fields
+
+| Name |
+|  --- |
+| `NOTSET` |
+| `OUTGOING` |
+| `OUTGOINGPRIORCOLLECTION` |
+| `OUTGOINGPARTNERPRIORCOLLECTION` |
+| `INCOMING` |
+| `INCOMINGLOGISTICPROVIDER` |
+| `INCOMINGDELIVERY` |
+| `INCOMINGPRIORCOLLECTION` |
+| `BORDEROCOLLECT` |
+| `BORDEROFORWARD` |
+| `BORDERO` |
+| `HUBBORDERO_DEFAULT` |
+| `HUBBORDERO_HUB` |
+| `DEPOTBORDERO` |
+| `CONSIGNEEBORDERO` |
+| `DRIVINGROUTE` |
+

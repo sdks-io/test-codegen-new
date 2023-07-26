@@ -1,0 +1,17 @@
+
+# Event Type 2 Enum
+
+## Enumeration
+
+`EventType2Enum`
+
+## Fields
+
+| Name |
+|  --- |
+| `NOTSET` |
+| `WMS_CONSOLIDATESTOCKSISALLOWED` |
+| `WMS_SWITCHLOCATIONISALLOWED` |
+| `WMS_GOODSRECEIVECHECKBARCODE` |
+| `WMS_CONSOLIDATIONONLOCATIONISALLOWED` |
+

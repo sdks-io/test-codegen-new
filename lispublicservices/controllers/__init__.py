@@ -1,0 +1,16 @@
+__all__ = [
+    'base_controller',
+    'article_controller',
+    'authentication_controller',
+    'customer_controller',
+    'dispo_controller',
+    'dms_document_controller',
+    'order_controller',
+    'permission_controller',
+    'print_controller',
+    'scanning_controller',
+    'scripting_controller',
+    'special_invoice_controller',
+    'status_manager_controller',
+    'unit_controller',
+]
